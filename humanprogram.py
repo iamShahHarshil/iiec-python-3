@@ -170,7 +170,7 @@ while True:
 	    print("ok i will not")
 	  else:
 	    if (("iiec-rise" in p.lower()) or ("iiec" in p.lower())):
-	      pyttsx3.speak("launching iiec rise facebook page ")
+	      pyttsx3.speak("launching i  i  e  c rise facebook page ")
 	      os.system("start www.facebook.com/IIECRise:")
 	    else:
 	      pyttsx3.speak("launching facebook page for you")
@@ -185,10 +185,10 @@ while True:
 	      pyttsx3.speak("launching iiec rise instagram account")
 	      os.system("start www.instagram.com/iiec_connect/?hl=en:")
 	    elif (("kriyanshi" in p.lower()) or ("kriyanshi's" in p.lower()) or ("kiya" in p.lower()) or ("kiya's" in p.lower())):
-	      pyttsx3.speak("launching kriyanshi's instagram page for ya")
+	      pyttsx3.speak("launching kriyanshi's enstagram page for ya")
 	      os.system("start www.instagram.com/kriyanshishahh/")
 	    else:
-	      pyttsx3.speak("launching instagram for ya ")
+	      pyttsx3.speak("launching enstagram for ya ")
 	      os.system("start www.instagram.com:")
 
 	elif (("run" in p.lower()) or ("open" in p.lower()) or ("launch" in p.lower())) and (("linked in" in p.lower()) or ("linked-in" in p.lower()) or ("linkedin" in p.lower())):
@@ -197,8 +197,8 @@ while True:
 	    print("ok i will not")
 	  else:
 	    if (("iiec" in p.lower()) or ("iiec-rise" in p.lower())):
-	      pyttsx3.speak("launching iiec rise linked in account ")
-	      os.system("start www.linkedin.com/company/iiec-rise:")
+	      pyttsx3.speak("launching i  i  e  c rise linked in account ")
+	      os.system("start www.linkedin.com/company/iiec-rise")
 	    else:
 	      pyttsx3.speak("launching linked in accouunt ")
 	      os.system("start www.linkedin.com:")
